@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "moonstone_ingot",
+  "ingredient": {
+    "item": "examplemod:raw_moonstone_ore"
+  },
+  "result": {
+    "id": "examplemod:moonstone_ingot"
+  }
+}

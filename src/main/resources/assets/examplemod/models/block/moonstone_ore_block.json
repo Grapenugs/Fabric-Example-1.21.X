@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all":"examplemod:block/moonstone_ore_block"
+  }
+}

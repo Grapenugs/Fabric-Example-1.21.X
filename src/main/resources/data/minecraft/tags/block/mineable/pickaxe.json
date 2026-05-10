@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "examplemod:moonstone_block",
+    "examplemod:moonstone_ore_block"
+  ]
+}

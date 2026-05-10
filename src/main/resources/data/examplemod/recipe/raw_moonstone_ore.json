@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "examplemod:moonstone_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "examplemod:raw_moonstone_ore"
+  }
+}
